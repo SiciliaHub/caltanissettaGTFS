@@ -1,0 +1,1 @@
+- GTFS specification [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/);
