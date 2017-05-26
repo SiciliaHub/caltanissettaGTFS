@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+LIN1,,1,,,3,,D70005,FFFFFF
+LIN2,,2,,,3,,54A3FF,FFFFFF
+LIN3,,3,,,3,,68B015,FFFFFF
+LIN4,,4,,,3,,FF8236,FFFFFF
+LIN5,,5,Zona ASI,,3,,CC03A2,FFFFFF

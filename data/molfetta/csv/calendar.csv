@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+FER,1,1,1,1,1,1,0,20140801,20150701
+FES,1,1,1,1,1,1,1,20140801,20150701
+SCO,1,1,1,1,1,1,0,20140915,20150616
