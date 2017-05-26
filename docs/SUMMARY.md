@@ -1,5 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Strumenti
+* [Strumenti](/docs/strumenti.md)
+
+
 
