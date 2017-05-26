@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Strumenti](/docs/strumenti.md)
-* [Sitografia](/docs/sitografia.md)
+* [Strumenti](strumenti.md)
+* [Sitografia](sitografia.md)
