@@ -15,5 +15,5 @@ for i in agency stops routes trips stop_times calendar; do touch $i.txt; done
 # Copia dei txt in CSV
 
 ```bash
-for file in *.txt; do mv "$file" "`basename "$file" .txt`.csv"; done
+for file in *.txt; do cp "$file" "`basename "$file" .txt`.csv"; done
 ```

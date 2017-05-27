@@ -1,0 +1,2350 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-05-27T06:40:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2006314862",
+        "highway": "bus_stop",
+        "name": "CEFPAS",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0290256,
+          37.490577
+        ]
+      },
+      "id": "node/2006314862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325538292",
+        "highway": "bus_stop",
+        "name": "Fermata 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0586252,
+          37.4875887
+        ]
+      },
+      "id": "node/3325538292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325538293",
+        "highway": "bus_stop",
+        "name": "Fermata 6, Astra Autolinee (Gela, Piazza Armerina)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0584097,
+          37.4876041
+        ]
+      },
+      "id": "node/3325538293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289974",
+        "highway": "bus_stop",
+        "name": "Via Niscemi 257",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0577952,
+          37.4824636
+        ]
+      },
+      "id": "node/3327289974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289975",
+        "highway": "bus_stop",
+        "name": "Viale Candura - ENEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0535576,
+          37.4782788
+        ]
+      },
+      "id": "node/3327289975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289976",
+        "highway": "bus_stop",
+        "name": "Viale Candura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0514493,
+          37.4771358
+        ]
+      },
+      "id": "node/3327289976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289977",
+        "highway": "bus_stop",
+        "name": "Via Niscemi 365",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0580795,
+          37.4786258
+        ]
+      },
+      "id": "node/3327289977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289978",
+        "highway": "bus_stop",
+        "name": "Via Niscemi 287",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0572615,
+          37.4814994
+        ]
+      },
+      "id": "node/3327289978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327289979",
+        "highway": "bus_stop",
+        "name": "Via Vassallo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0564222,
+          37.4799646
+        ]
+      },
+      "id": "node/3327289979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290741",
+        "highway": "bus_stop",
+        "name": "Via 20 Settembre 74",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0604506,
+          37.4884443
+        ]
+      },
+      "id": "node/3327290741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290742",
+        "highway": "bus_stop",
+        "name": "Via 20 Settembre 16",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0617219,
+          37.4873524
+        ]
+      },
+      "id": "node/3327290742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290743",
+        "highway": "bus_stop",
+        "name": "Viale Testasecca 48",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0583692,
+          37.49196
+        ]
+      },
+      "id": "node/3327290743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290744",
+        "highway": "bus_stop",
+        "name": "Viale Regina Margherita 29",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0610433,
+          37.4859008
+        ]
+      },
+      "id": "node/3327290744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290745",
+        "highway": "bus_stop",
+        "name": "Viale Regina Margherita 49",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0597237,
+          37.4840321
+        ]
+      },
+      "id": "node/3327290745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327290746",
+        "highway": "bus_stop",
+        "name": "Corso Vittorio Emanuele II 140",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0605096,
+          37.4903659
+        ]
+      },
+      "id": "node/3327290746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301904",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco 101",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0243104,
+          37.4876881
+        ]
+      },
+      "id": "node/3327301904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301905",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco difr. 42",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0263704,
+          37.4883992
+        ]
+      },
+      "id": "node/3327301905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301906",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco 63",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0364018,
+          37.4910422
+        ]
+      },
+      "id": "node/3327301906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301907",
+        "highway": "bus_stop",
+        "name": "VIA L. MONACO 70 - Dubini",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0214619,
+          37.4866159
+        ]
+      },
+      "id": "node/3327301907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301908",
+        "highway": "bus_stop",
+        "name": "Viale L. Monaco - Incrocio ospedale S. Elia",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0332204,
+          37.4894244
+        ]
+      },
+      "id": "node/3327301908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301909",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco difr. 38",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.028897,
+          37.4891651
+        ]
+      },
+      "id": "node/3327301909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327301910",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco - Ospedale S. Elia",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0308124,
+          37.4892926
+        ]
+      },
+      "id": "node/3327301910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308250",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 114",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0450387,
+          37.4933984
+        ]
+      },
+      "id": "node/3327308250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308251",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 66",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0471361,
+          37.4932366
+        ]
+      },
+      "id": "node/3327308251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308252",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 44",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0484665,
+          37.4931367
+        ]
+      },
+      "id": "node/3327308252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308253",
+        "highway": "bus_stop",
+        "name": "Via Calabria",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0531926,
+          37.4928983
+        ]
+      },
+      "id": "node/3327308253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308254",
+        "highway": "bus_stop",
+        "name": "Via Leone 13, civ. 58",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0433891,
+          37.4907232
+        ]
+      },
+      "id": "node/3327308254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308255",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 204",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0423994,
+          37.492826
+        ]
+      },
+      "id": "node/3327308255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308256",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 226",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0406801,
+          37.4922661
+        ]
+      },
+      "id": "node/3327308256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308257",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 101",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0426113,
+          37.4930813
+        ]
+      },
+      "id": "node/3327308257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308258",
+        "highway": "bus_stop",
+        "name": "Viale della Regione difr. 226",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0407739,
+          37.492447
+        ]
+      },
+      "id": "node/3327308258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308259",
+        "highway": "bus_stop",
+        "name": "Via De Nicola",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0459935,
+          37.4939368
+        ]
+      },
+      "id": "node/3327308259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308260",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 6",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0506525,
+          37.4929812
+        ]
+      },
+      "id": "node/3327308260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308261",
+        "highway": "bus_stop",
+        "name": "Via Leone 13, civ. 21",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0495233,
+          37.4909149
+        ]
+      },
+      "id": "node/3327308261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327308262",
+        "highway": "bus_stop",
+        "name": "Via Leone 13, civ. 42",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0461679,
+          37.4903912
+        ]
+      },
+      "id": "node/3327308262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557787",
+        "highway": "bus_stop",
+        "name": "Via De Roberto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0568435,
+          37.495745
+        ]
+      },
+      "id": "node/3327557787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557788",
+        "highway": "bus_stop",
+        "name": "Via Redentore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0620223,
+          37.4938477
+        ]
+      },
+      "id": "node/3327557788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557789",
+        "highway": "bus_stop",
+        "name": "Via Amico Valenti 45",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0573314,
+          37.4937062
+        ]
+      },
+      "id": "node/3327557789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557790",
+        "highway": "bus_stop",
+        "name": "Via De Roberto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0546253,
+          37.4965068
+        ]
+      },
+      "id": "node/3327557790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557791",
+        "highway": "bus_stop",
+        "name": "Via Messina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.058241,
+          37.4941937
+        ]
+      },
+      "id": "node/3327557791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327557792",
+        "highway": "bus_stop",
+        "name": "Via Libertà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0466377,
+          37.4952662
+        ]
+      },
+      "id": "node/3327557792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327565593",
+        "highway": "bus_stop",
+        "name": "Via Brancati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0491831,
+          37.4963686
+        ]
+      },
+      "id": "node/3327565593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327565594",
+        "highway": "bus_stop",
+        "name": "Via Messina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0574604,
+          37.4944725
+        ]
+      },
+      "id": "node/3327565594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327565595",
+        "highway": "bus_stop",
+        "name": "Via De Amicis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0511277,
+          37.4959344
+        ]
+      },
+      "id": "node/3327565595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327565596",
+        "highway": "bus_stop",
+        "name": "Via De Roberto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0531473,
+          37.4962452
+        ]
+      },
+      "id": "node/3327565596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327584454",
+        "highway": "bus_stop",
+        "name": "Via Due Fontane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0258651,
+          37.48102
+        ]
+      },
+      "id": "node/3327584454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327584455",
+        "highway": "bus_stop",
+        "name": "Via Due Fontane 71",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0305644,
+          37.4838377
+        ]
+      },
+      "id": "node/3327584455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327584456",
+        "highway": "bus_stop",
+        "name": "Via Due Fontane difr. LIDL",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0379565,
+          37.4901845
+        ]
+      },
+      "id": "node/3327584456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327584457",
+        "highway": "bus_stop",
+        "name": "Centro comm. Due Fontane",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.021756,
+          37.4812752
+        ]
+      },
+      "id": "node/3327584457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327584458",
+        "highway": "bus_stop",
+        "name": "Via Due Fontane 55",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0334022,
+          37.4873837
+        ]
+      },
+      "id": "node/3327584458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3327596307",
+        "highway": "bus_stop",
+        "name": "Via Frà Giarratana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0530317,
+          37.4869756
+        ]
+      },
+      "id": "node/3327596307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329010113",
+        "highway": "bus_stop",
+        "name": "Piazza Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0577913,
+          37.488499
+        ]
+      },
+      "id": "node/3329010113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3329014755",
+        "highway": "bus_stop",
+        "name": "Via Redentore - Santa Lucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0603004,
+          37.4934432
+        ]
+      },
+      "id": "node/3329014755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337797816",
+        "highway": "bus_stop",
+        "name": "Via Catania 14",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0533481,
+          37.4921601
+        ]
+      },
+      "id": "node/3337797816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337797817",
+        "highway": "bus_stop",
+        "name": "Via Rosso di San Secondo 28",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0553333,
+          37.4928981
+        ]
+      },
+      "id": "node/3337797817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826548",
+        "highway": "bus_stop",
+        "name": "Viale Trieste - Piazza Trento 8",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0540969,
+          37.4942711
+        ]
+      },
+      "id": "node/3337826548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826549",
+        "highway": "bus_stop",
+        "name": "UNRRA Casas - Via Aci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0413832,
+          37.4919004
+        ]
+      },
+      "id": "node/3337826549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826550",
+        "highway": "bus_stop",
+        "name": "UNRRA Casas - Via Aci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0431481,
+          37.4912022
+        ]
+      },
+      "id": "node/3337826550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826551",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "Viale Trieste 51",
+        "operator": "SCAT - Trasporto Pubbliuco Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0559713,
+          37.4939263
+        ]
+      },
+      "id": "node/3337826551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826552",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 49",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0469461,
+          37.4934709
+        ]
+      },
+      "id": "node/3337826552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826554",
+        "highway": "bus_stop",
+        "name": "Viale Trieste 171",
+        "operator": "SCAT -Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0525197,
+          37.4945348
+        ]
+      },
+      "id": "node/3337826554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826555",
+        "highway": "bus_stop",
+        "name": "Viale Trieste 246 - Piazza Giovanni 23",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0501692,
+          37.4947283
+        ]
+      },
+      "id": "node/3337826555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826556",
+        "highway": "bus_stop",
+        "name": "Viale Trieste 285",
+        "operator": "SCAT Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0487426,
+          37.4940436
+        ]
+      },
+      "id": "node/3337826556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826557",
+        "highway": "bus_stop",
+        "name": "Viale Sicilia 14",
+        "operator": "SCAT - trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0508284,
+          37.4919558
+        ]
+      },
+      "id": "node/3337826557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826559",
+        "highway": "bus_stop",
+        "name": "Via Malta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0442424,
+          37.4919898
+        ]
+      },
+      "id": "node/3337826559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826560",
+        "highway": "bus_stop",
+        "name": "Viale Sicilia - Piazza Martiri d'Ungheria 28",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0527665,
+          37.4916386
+        ]
+      },
+      "id": "node/3337826560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826561",
+        "highway": "bus_stop",
+        "name": "Viale della Regione 57",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.045833,
+          37.4935263
+        ]
+      },
+      "id": "node/3337826561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826562",
+        "highway": "bus_stop",
+        "name": "Viale Sicilia 70",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0489673,
+          37.4921043
+        ]
+      },
+      "id": "node/3337826562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3337826563",
+        "highway": "bus_stop",
+        "name": "Viale Sicilia 174",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0460288,
+          37.4923174
+        ]
+      },
+      "id": "node/3337826563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810913",
+        "highway": "bus_stop",
+        "name": "Via Amico Valenti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0613572,
+          37.4967884
+        ]
+      },
+      "id": "node/3338810913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810914",
+        "highway": "bus_stop",
+        "name": "Via Borremans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.055379,
+          37.4981349
+        ]
+      },
+      "id": "node/3338810914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810915",
+        "highway": "bus_stop",
+        "name": "Via Paladini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0616819,
+          37.4985095
+        ]
+      },
+      "id": "node/3338810915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810916",
+        "highway": "bus_stop",
+        "name": "Via San Giovanni Bosco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0624705,
+          37.4943195
+        ]
+      },
+      "id": "node/3338810916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810917",
+        "highway": "bus_stop",
+        "name": "Via Puccini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0533485,
+          37.4984564
+        ]
+      },
+      "id": "node/3338810917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810918",
+        "highway": "bus_stop",
+        "name": "Via De Cosmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0525651,
+          37.4971499
+        ]
+      },
+      "id": "node/3338810918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810919",
+        "highway": "bus_stop",
+        "name": "Via San Giovanni Bosco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0625324,
+          37.4952133
+        ]
+      },
+      "id": "node/3338810919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810920",
+        "highway": "bus_stop",
+        "name": "Via Paladini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0629372,
+          37.4992904
+        ]
+      },
+      "id": "node/3338810920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810921",
+        "highway": "bus_stop",
+        "name": "Via Fasci Siciliani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0526002,
+          37.4984266
+        ]
+      },
+      "id": "node/3338810921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810922",
+        "highway": "bus_stop",
+        "name": "Via Paladini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0573448,
+          37.4973988
+        ]
+      },
+      "id": "node/3338810922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810923",
+        "highway": "bus_stop",
+        "name": "Via Generale Cascino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0638438,
+          37.4947728
+        ]
+      },
+      "id": "node/3338810923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810924",
+        "highway": "bus_stop",
+        "name": "Via Amico Valenti 45",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0593536,
+          37.4963439
+        ]
+      },
+      "id": "node/3338810924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810925",
+        "highway": "bus_stop",
+        "name": "Via San Giovanni Bosco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0624866,
+          37.4962008
+        ]
+      },
+      "id": "node/3338810925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810926",
+        "highway": "bus_stop",
+        "name": "Santa Flavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0655791,
+          37.494543
+        ]
+      },
+      "id": "node/3338810926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338810927",
+        "highway": "bus_stop",
+        "name": "Via Paladini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0598607,
+          37.4977625
+        ]
+      },
+      "id": "node/3338810927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338811303",
+        "highway": "bus_stop",
+        "name": "Via De Cosmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0502637,
+          37.4964305
+        ]
+      },
+      "id": "node/3338811303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338827724",
+        "highway": "bus_stop",
+        "name": "Via Romita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0423085,
+          37.4820102
+        ]
+      },
+      "id": "node/3338827724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338827725",
+        "highway": "bus_stop",
+        "name": "Via Turati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0418601,
+          37.4854987
+        ]
+      },
+      "id": "node/3338827725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828193",
+        "highway": "bus_stop",
+        "name": "Via Rosso di San Secondo - Piazza Europa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0545337,
+          37.4932794
+        ]
+      },
+      "id": "node/3338828193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828194",
+        "highway": "bus_stop",
+        "name": "Via Turati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0497297,
+          37.4897298
+        ]
+      },
+      "id": "node/3338828194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828195",
+        "highway": "bus_stop",
+        "name": "Via Turati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0475519,
+          37.4888038
+        ]
+      },
+      "id": "node/3338828195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828196",
+        "highway": "bus_stop",
+        "name": "Via Turati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0455325,
+          37.4877653
+        ]
+      },
+      "id": "node/3338828196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828197",
+        "highway": "bus_stop",
+        "name": "Via Calafato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0589539,
+          37.4929709
+        ]
+      },
+      "id": "node/3338828197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828198",
+        "highway": "bus_stop",
+        "name": "Via Turati - Villa Monica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0435933,
+          37.4865692
+        ]
+      },
+      "id": "node/3338828198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828199",
+        "highway": "bus_stop",
+        "name": "Via Rosso di San Secondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0567978,
+          37.4925282
+        ]
+      },
+      "id": "node/3338828199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3338828200",
+        "highway": "bus_stop",
+        "name": "Via Calafato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0595842,
+          37.4940689
+        ]
+      },
+      "id": "node/3338828200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805202",
+        "highway": "bus_stop",
+        "name": "Via Trigona della Floresta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044833,
+          37.479419
+        ]
+      },
+      "id": "node/3339805202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805203",
+        "highway": "bus_stop",
+        "name": "Via Sallemi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.056229,
+          37.4915811
+        ]
+      },
+      "id": "node/3339805203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805204",
+        "highway": "bus_stop",
+        "name": "Via D'Acquisto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0483762,
+          37.4860703
+        ]
+      },
+      "id": "node/3339805204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805206",
+        "highway": "bus_stop",
+        "name": "(Via Ferdinando I)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0423171,
+          37.4842824
+        ]
+      },
+      "id": "node/3339805206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805207",
+        "highway": "bus_stop",
+        "name": "Via Frà Giarratana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0529035,
+          37.4882987
+        ]
+      },
+      "id": "node/3339805207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805208",
+        "highway": "bus_stop",
+        "name": "Via Trigona della Floresta - Villa Eva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0428133,
+          37.4798979
+        ]
+      },
+      "id": "node/3339805208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805209",
+        "highway": "bus_stop",
+        "name": "Via Ferdinando I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0440978,
+          37.4825395
+        ]
+      },
+      "id": "node/3339805209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805210",
+        "highway": "bus_stop",
+        "name": "Via Ferdinando I"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.04527,
+          37.4809091
+        ]
+      },
+      "id": "node/3339805210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805211",
+        "highway": "bus_stop",
+        "name": "Via D'Acquisto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0501623,
+          37.4851891
+        ]
+      },
+      "id": "node/3339805211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805212",
+        "highway": "bus_stop",
+        "name": "Via D'Acquisto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0461768,
+          37.4870004
+        ]
+      },
+      "id": "node/3339805212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805213",
+        "highway": "bus_stop",
+        "name": "Via Don Minzoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0441008,
+          37.4847187
+        ]
+      },
+      "id": "node/3339805213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805214",
+        "highway": "bus_stop",
+        "name": "Via Pacini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0436338,
+          37.4856616
+        ]
+      },
+      "id": "node/3339805214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805215",
+        "highway": "bus_stop",
+        "name": "Via Trigona della Floresta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0468096,
+          37.4795873
+        ]
+      },
+      "id": "node/3339805215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805217",
+        "highway": "bus_stop",
+        "name": "(Via Sallemi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0534668,
+          37.4907269
+        ]
+      },
+      "id": "node/3339805217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805218",
+        "highway": "bus_stop",
+        "name": "Via Turati - Villa Monica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0438538,
+          37.486579
+        ]
+      },
+      "id": "node/3339805218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339805219",
+        "highway": "bus_stop",
+        "name": "Via Moncada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0516912,
+          37.4896267
+        ]
+      },
+      "id": "node/3339805219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339812447",
+        "highway": "bus_stop",
+        "name": "(Corso Umberto I)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0627312,
+          37.4910333
+        ]
+      },
+      "id": "node/3339812447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339855169",
+        "highway": "bus_stop",
+        "name": "Corso Vittorio Emanuele II 42 - CCIAA",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0635997,
+          37.4900493
+        ]
+      },
+      "id": "node/3339855169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339855170",
+        "highway": "bus_stop",
+        "name": "Via Vespri Siciliani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.067368,
+          37.4924798
+        ]
+      },
+      "id": "node/3339855170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339855171",
+        "highway": "bus_stop",
+        "name": "(Via Re d'Italia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0650023,
+          37.4912731
+        ]
+      },
+      "id": "node/3339855171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339855172",
+        "highway": "bus_stop",
+        "name": "Via Vespri Siciliani - Badia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0663785,
+          37.4909519
+        ]
+      },
+      "id": "node/3339855172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339855173",
+        "highway": "bus_stop",
+        "name": "(Via Xiboli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.068634,
+          37.4930479
+        ]
+      },
+      "id": "node/3339855173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339866684",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0797836,
+          37.5029156
+        ]
+      },
+      "id": "node/3339866684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339866687",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0850595,
+          37.5013155
+        ]
+      },
+      "id": "node/3339866687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339866690",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0778578,
+          37.4965041
+        ]
+      },
+      "id": "node/3339866690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339866692",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0703637,
+          37.4942888
+        ]
+      },
+      "id": "node/3339866692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339869797",
+        "highway": "bus_stop",
+        "name": "(Via Xiboli)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0780753,
+          37.5015263
+        ]
+      },
+      "id": "node/3339869797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339869799",
+        "highway": "bus_stop",
+        "name": "Via Xiboli - Santa Barbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0886107,
+          37.4984129
+        ]
+      },
+      "id": "node/3339869799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339869801",
+        "highway": "bus_stop",
+        "name": "Via Xiboli - Stabilimento Averna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0822164,
+          37.5036455
+        ]
+      },
+      "id": "node/3339869801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339869802",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0716887,
+          37.4951975
+        ]
+      },
+      "id": "node/3339869802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339869803",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0756074,
+          37.4953359
+        ]
+      },
+      "id": "node/3339869803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339873809",
+        "highway": "bus_stop",
+        "name": "Santa Barbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0904963,
+          37.5014709
+        ]
+      },
+      "id": "node/3339873809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882318",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.069264,
+          37.4937377
+        ]
+      },
+      "id": "node/3339882318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882319",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0776968,
+          37.4965445
+        ]
+      },
+      "id": "node/3339882319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882320",
+        "highway": "bus_stop",
+        "name": "Via Xiboli - Santa Barbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0884068,
+          37.498549
+        ]
+      },
+      "id": "node/3339882320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882321",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0777375,
+          37.5011921
+        ]
+      },
+      "id": "node/3339882321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882323",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0758622,
+          37.4954741
+        ]
+      },
+      "id": "node/3339882323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882326",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0851667,
+          37.5018941
+        ]
+      },
+      "id": "node/3339882326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882328",
+        "highway": "bus_stop",
+        "name": "Via Xiboli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0717423,
+          37.4952805
+        ]
+      },
+      "id": "node/3339882328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339882329",
+        "highway": "bus_stop",
+        "name": "Via Vespri Siciliani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.067263,
+          37.492399
+        ]
+      },
+      "id": "node/3339882329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339919893",
+        "highway": "bus_stop",
+        "name": "Viale Candura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0449495,
+          37.4747124
+        ]
+      },
+      "id": "node/3339919893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339919895",
+        "highway": "bus_stop",
+        "name": "Viale Candura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0495626,
+          37.4751999
+        ]
+      },
+      "id": "node/3339919895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339919897",
+        "highway": "bus_stop",
+        "name": "Viale Candura - Pian del Lago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0387483,
+          37.4707402
+        ]
+      },
+      "id": "node/3339919897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339919898",
+        "highway": "bus_stop",
+        "name": "Viale Candura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0405933,
+          37.4731056
+        ]
+      },
+      "id": "node/3339919898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3339919899",
+        "highway": "bus_stop",
+        "name": "Pian del Lago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0378359,
+          37.4685899
+        ]
+      },
+      "id": "node/3339919899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4652652501",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco - Ospedale S. Elia, ritorno",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0308056,
+          37.489177
+        ]
+      },
+      "id": "node/4652652501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4652670814",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco 16",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0341385,
+          37.4899881
+        ]
+      },
+      "id": "node/4652670814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4652673340",
+        "highway": "bus_stop",
+        "name": "Viale Luigi Monaco 6",
+        "operator": "SCAT - Trasporto Pubblico Locale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0395264,
+          37.4919242
+        ]
+      },
+      "id": "node/4652673340"
+    }
+  ]
+}
