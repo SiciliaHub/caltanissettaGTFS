@@ -1,6 +1,7 @@
 # Generale
 
 * GTFS specification [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/);
+* GTFS Data Best Practices [http://gtfs.org/best-practices/](http://gtfs.org/best-practices/)
 * awesome-transit [https://github.com/luqmaan/awesome-transit](https://github.com/luqmaan/awesome-transit)
 
 # Tutorial
