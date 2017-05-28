@@ -1,0 +1,4 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station
+LIN1F001,1,nome uno,,37.48789,14.04547,,,,
+LIN1F002,2,nome due,,37.48888,14.04749,,,,
+LIN1F003,3,nome tre,,37.48981,14.04970,,,,

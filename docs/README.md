@@ -2,7 +2,7 @@
 
 Queste pagine sono state costruite a supporto dell'hangout dell'[**OpenDataFest 2017**](http://opendatafest.it/) dedicato alla creazione del GTFS dellà città di Caltanissetta.
 
-## Cosa c'è (si può) da fare
+## Cosa c'è da (si può) fare
 
 - creare GTFS delle linee SCAT;
 - produrre una documentazione che consenta a SCAT di essere indipendente;
@@ -10,5 +10,5 @@ Queste pagine sono state costruite a supporto dell'hangout dell'[**OpenDataFest 
 
 ## Link utili
 - il repo [https://github.com/SiciliaHub/caltanissettaGTFS/](https://github.com/SiciliaHub/caltanissettaGTFS/tree/master/docs);
-- alcune [note strutturate](https://opendatasicilia.gitbooks.io/caltanissettagtfs) costruite con gitbook. I file sono quelli presenti [qui](https://github.com/SiciliaHub/caltanissettaGTFS/tree/master/docs);
+- alcune [note strutturate](https://opendatasicilia.gitbooks.io/caltanissettagtfs) (queste pagine) costruite con gitbook. I file sono quelli presenti [qui](https://github.com/SiciliaHub/caltanissettaGTFS/tree/master/docs);
 - una [chat](https://gitter.im/caltanissettaGTFS/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge);
