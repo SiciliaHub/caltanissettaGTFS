@@ -5,10 +5,13 @@ Queste pagine sono state costruite a supporto dell'hangout dell'[**OpenDataFest 
 ## Cosa c'è da (si può) fare
 
 - creare GTFS delle linee SCAT;
+
+### idee
 - produrre la mappa di base di linee e fermate;
 - produrre una documentazione che consenta a SCAT di essere indipendente;
   - tradurre in italiano [questo documento](https://docs.google.com/document/d/1n-rCnYvZeva3aZ9IMz4-nfqr5tO4X_KAdbx_R-pLc7U/edit?usp=sharing);
 - fare analis dei dati sui trasporti (vedi [questo](https://github.com/SiciliaHub/caltanissettaGTFS/raw/master/altro/2014_02_24_WorldBank_OSTTP_IndicatorMethodology_rev2%20%20-GTFS%20analysis%20query%20sql.pdf) bellissimo report)
+- cartografia turistica di base;
 
 ## Link utili
 - il repo [https://github.com/SiciliaHub/caltanissettaGTFS/](https://github.com/SiciliaHub/caltanissettaGTFS/tree/master/docs);
