@@ -8,7 +8,11 @@ Queste pagine sono state costruite a supporto dell'hangout dell'[**OpenDataFest 
 - produrre la mappa di base di linee e fermate;
 - produrre una documentazione che consenta a SCAT di essere indipendente;
   - tradurre in italiano [questo documento](https://docs.google.com/document/d/1n-rCnYvZeva3aZ9IMz4-nfqr5tO4X_KAdbx_R-pLc7U/edit?usp=sharing);
+<<<<<<< HEAD
 - fare analis dei dati sui trasporti (vedi [questo](https://github.com/SiciliaHub/caltanissettaGTFS/raw/master/altro/2014_02_24_WorldBank_OSTTP_IndicatorMethodology_rev2%20%20-GTFS%20analysis%20query%20sql.pdf) bellissimo report)
+=======
+- fare analis dei dati sui trasporti (vedi [questo bellissimo report](https://github.com/SiciliaHub/caltanissettaGTFS/raw/master/altro/2014_02_24_WorldBank_OSTTP_IndicatorMethodology_rev2%20%20-GTFS%20analysis%20query%20sql.pdf))
+>>>>>>> 75b99248aed9173c17f649bbe6fb8d48ceaa8a8f
 
 ## Link utili
 - il repo [https://github.com/SiciliaHub/caltanissettaGTFS/](https://github.com/SiciliaHub/caltanissettaGTFS/tree/master/docs);
