@@ -1,0 +1,2 @@
+route_id,route_short_name,route_long_name,route_type
+1,LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60',LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60',3
