@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>FeedValidator: amat_feed_gtfs_v16.zip</title>
+<title>FeedValidator: gtfs.zip</title>
 <style>
 body {font-family: Georgia, serif; background-color: white}
 .path {color: gray}
@@ -25,48 +25,94 @@ th.header {text-align: right; font-weight: normal; color: gray}
 </head>
 <body>
 GTFS validation results for feed:<br>
-<code><span class="path"></span><b>amat_feed_gtfs_v16.zip</b></code><br>
+<code><span class="path"></span><b>gtfs.zip</b></code><br>
 FeedValidator extension used: None
 <br><br>
 <table>
-<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.amat.pa.it">AMAT Palermo S.p.A.</a></td></tr>
-<tr><th class="header">Routes:</th><td class="header">65</td></tr>
-<tr><th class="header">Stops:</th><td class="header">1705</td></tr>
-<tr><th class="header">Trips:</th><td class="header">23444</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">130</td></tr>
-<tr><th class="header">Effective:</th><td class="header">November 01, 2016 to December 31, 2016</td></tr>
+<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.scattrasporti.net/">S.C.A.T. s.c.r.l.</a></td></tr>
+<tr><th class="header">Routes:</th><td class="header">1</td></tr>
+<tr><th class="header">Stops:</th><td class="header">63</td></tr>
+<tr><th class="header">Trips:</th><td class="header">13</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">0</td></tr>
+<tr><th class="header">Effective:</th><td class="header">May 03, 2017 to July 03, 2017</td></tr>
 </table>
 <br>
-During the upcoming service dates Fri Nov 04 to Fri Dec 30:
+During the upcoming service dates Sat Jun 03 to Sun Jul 02:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">6506</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">6804, on 48 service dates (Fri Nov 04, Sat Nov 05, Mon Nov 07, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">4918, on 9 service dates (Sun Nov 06, Sun Nov 13, Sun Nov 20, ...)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">10</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">13, on 25 service dates (Sat Jun 03, Mon Jun 05, Tue Jun 06, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">0, on 5 service dates (Sun Jun 04, Sun Jun 11, Sun Jun 18, ...)</td></tr>
 </table>
 <br>
 <span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">5 warnings</span></td></tr>
+<tr><td><span class="fail">700 errors</span></td><td><span class="fail">216 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>4</td><td><a href="#WarningDuplicateTrip">Duplicate Trips</a></td></tr>
-<tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
+<table><tr><td>700</td><td><a href="#ErrorInvalidValue">Invalid Values</a></td></tr>
+</table>
+</td>
+<td>
+<table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
+<tr><td>2</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
+<tr><td>175</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
+<tr><td>38</td><td><a href="#WarningUnusedStop">Unused Stops</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningDuplicateTrip">Duplicate Trip</a></h4><ul>
-<li><div class="problem">Trip 4207_merged_80580 of route 224 might be duplicated with trip 4712_merged_85476 of route 231. They go through the same stops with same service.</div><br></li>
-<li><div class="problem">Trip 4708_merged_91565 of route 231 might be duplicated with trip 4186_merged_86694 of route 224. They go through the same stops with same service.</div><br></li>
-<li><div class="problem">Trip 4207_merged_92302 of route 224 might be duplicated with trip 4712_merged_97198 of route 231. They go through the same stops with same service.</div><br></li>
-<li><div class="problem">Trip 4708_merged_103287 of route 231 might be duplicated with trip 4186_merged_98416 of route 224. They go through the same stops with same service.</div><br></li>
+<h3 class="issueHeader">Errors:</h3><h4 class="issueHeader"><a name="ErrorInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 2 of <code>stop_times.txt</code><br>
+<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
+<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>2</td><td>1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value 7:47 in field <code>departure_time</code></div>in line 2 of <code>stop_times.txt</code><br>
+<table class="dump"><tr><th>trip_id</th><th>arrival_time</th><th class="problem">departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
+<tr><td>1</td><td>7:47</td><td class="problem">7:47</td><td>2</td><td>1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 3 of <code>stop_times.txt</code><br>
+<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
+<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>77</td><td>2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value 7:47 in field <code>departure_time</code></div>in line 3 of <code>stop_times.txt</code><br>
+<table class="dump"><tr><th>trip_id</th><th>arrival_time</th><th class="problem">departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
+<tr><td>1</td><td>7:47</td><td class="problem">7:47</td><td>77</td><td>2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 4 of <code>stop_times.txt</code><br>
+<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
+<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>78</td><td>3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
+<br></li>
+<li>and 695 more of this type.</ul>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
+<li><div class="problem">This feed will soon expire, on July 03, 2017 (last service date in calendar.txt)</div><br></li>
 </ul>
-<h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
-<li><div class="problem">This feed will soon expire, on December 31, 2016 (last service date in calendar.txt)</div><br></li>
+<h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60' in field <code>route_short_name</code><br>This route_short_name is relatively long, which probably means that it contains a place name.  You should only use this field to hold a short code that riders use to identify a route.  If this route doesn't have such a code, it's OK to leave this field empty.</div>in line 2 of <code>routes.txt</code><br>
+<table class="dump"><tr><th>route_id</th><th class="problem">route_short_name</th><th>route_long_name</th><th>route_type</th></tr>
+<tr><td>1</td><td class="problem">LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60'</td><td>LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60'</td><td>3</td></tr></table>
+<br></li>
+<li><div class="problem">Invalid value LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60' in field <code>route_long_name</code><br>route_long_name shouldn't be the same the route_short_name value, as both fields are often displayed side-by-side.  It's OK to omit either the short or long name (but not both).</div>in line 2 of <code>routes.txt</code><br>
+<table class="dump"><tr><th>route_id</th><th>route_short_name</th><th class="problem">route_long_name</th><th>route_type</th></tr>
+<tr><td>1</td><td>LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60'</td><td class="problem">LINEA 3 - ZIR - SAN LUCA - FREQUENZA 60'</td><td>3</td></tr></table>
+<br></li>
 </ul>
+<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
+<li><div class="problem">The stops "VIA SAN GIOVANNI BOSCO, 61/A" (ID 218) and "VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA" (ID 91) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "VIA A. VALENTI, 123" (ID 211) and "VIA CALABRIA DIFR. CIV. 38" (ID 237) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "VIA A. VALENTI, 123" (ID 211) and "VIA S. AVERNA – IL CENTESIMO" (ID 85) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "VIA CALABRIA DIFR. CIV. 38" (ID 237) and "VIA S. AVERNA – IL CENTESIMO" (ID 85) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "ZONA INDUSTRIALE" (ID 190) and "ZONA INDUSTRIALE – DEPURATORE" (ID 191) are 0.00m apart and probably represent the same location.</div><br></li>
+<li>and 170 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningUnusedStop">Unused Stop</a></h4><ul>
+<li><div class="problem">VIA P. NOVELLI CIV. 15 (ID 216) isn't used in any trips</div><br></li>
+<li><div class="problem">VIA G. CASCINO, 16 (ID 217) isn't used in any trips</div><br></li>
+<li><div class="problem">VIA G. CASCINO, 81 (ID 214) isn't used in any trips</div><br></li>
+<li><div class="problem">PIAZZA SANTA FLAVIA (ID 215) isn't used in any trips</div><br></li>
+<li><div class="problem">VIA REDENTORE, 207 (ID 212) isn't used in any trips</div><br></li>
+<li>and 33 more of this type.</ul>
 
 <div class="footer">
 Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.15 on November 04, 2016 at 02:12 PM ora solare Europa occidentale.
+FeedValidator</a> version 1.2.15 on June 03, 2017 at 04:56 PM ora legale Europa occidentale.
 </div>
 </body>
 </html>
