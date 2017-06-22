@@ -46,42 +46,17 @@ During the upcoming service dates Sat Jun 03 to Sun Jul 02:
 <br>
 <span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">700 errors</span></td><td><span class="fail">216 warnings</span></td></tr>
+<tr><td><span class="fail">267 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>700</td><td><a href="#ErrorInvalidValue">Invalid Values</a></td></tr>
-</table>
-</td>
-<td>
 <table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
 <tr><td>2</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
 <tr><td>175</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
+<tr><td>51</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
 <tr><td>38</td><td><a href="#WarningUnusedStop">Unused Stops</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Errors:</h3><h4 class="issueHeader"><a name="ErrorInvalidValue">Invalid Value</a></h4><ul>
-<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 2 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
-<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>2</td><td>1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
-<br></li>
-<li><div class="problem">Invalid value 7:47 in field <code>departure_time</code></div>in line 2 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>arrival_time</th><th class="problem">departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
-<tr><td>1</td><td>7:47</td><td class="problem">7:47</td><td>2</td><td>1</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
-<br></li>
-<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 3 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
-<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>77</td><td>2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
-<br></li>
-<li><div class="problem">Invalid value 7:47 in field <code>departure_time</code></div>in line 3 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th>arrival_time</th><th class="problem">departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
-<tr><td>1</td><td>7:47</td><td class="problem">7:47</td><td>77</td><td>2</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
-<br></li>
-<li><div class="problem">Invalid value 7:47 in field <code>arrival_time</code></div>in line 4 of <code>stop_times.txt</code><br>
-<table class="dump"><tr><th>trip_id</th><th class="problem">arrival_time</th><th>departure_time</th><th>stop_id</th><th>stop_sequence</th><th>stop_headsign</th><th>pickup_type</th><th>drop_off_type</th><th>shape_dist_traveled</th><th>timepoint</th></tr>
-<tr><td>1</td><td class="problem">7:47</td><td>7:47</td><td>78</td><td>3</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td></tr></table>
-<br></li>
-<li>and 695 more of this type.</ul>
 <h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
 <li><div class="problem">This feed will soon expire, on July 03, 2017 (last service date in calendar.txt)</div><br></li>
 </ul>
@@ -102,6 +77,13 @@ During the upcoming service dates Sat Jun 03 to Sun Jul 02:
 <li><div class="problem">The stops "VIA CALABRIA DIFR. CIV. 38" (ID 237) and "VIA S. AVERNA – IL CENTESIMO" (ID 85) are 0.00m apart and probably represent the same location.</div><br></li>
 <li><div class="problem">The stops "ZONA INDUSTRIALE" (ID 190) and "ZONA INDUSTRIALE – DEPURATORE" (ID 191) are 0.00m apart and probably represent the same location.</div><br></li>
 <li>and 170 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
+<li><div class="problem">High speed travel detected in trip 11: VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA to VIALE S. CANDURA, 20/H. 48233 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 10: VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA to VIALE S. CANDURA, 20/H. 48233 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 13: VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA to VIALE S. CANDURA, 20/H. 48233 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 12: VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA to VIALE S. CANDURA, 20/H. 48233 meters in 0 seconds.</div><br></li>
+<li><div class="problem">High speed travel detected in trip 1: VIA C.A. DALLA CHIESA  DIFR. CIV. 2  – DIFR. POSTA to VIALE S. CANDURA, 20/H. 48233 meters in 0 seconds.</div><br></li>
+<li>and 46 more of this type.</ul>
 <h4 class="issueHeader"><a name="WarningUnusedStop">Unused Stop</a></h4><ul>
 <li><div class="problem">VIA P. NOVELLI CIV. 15 (ID 216) isn't used in any trips</div><br></li>
 <li><div class="problem">VIA G. CASCINO, 16 (ID 217) isn't used in any trips</div><br></li>
@@ -112,7 +94,7 @@ During the upcoming service dates Sat Jun 03 to Sun Jul 02:
 
 <div class="footer">
 Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.15 on June 03, 2017 at 04:56 PM ora legale Europa occidentale.
+FeedValidator</a> version 1.2.15 on June 03, 2017 at 06:47 PM ora legale Europa occidentale.
 </div>
 </body>
 </html>
